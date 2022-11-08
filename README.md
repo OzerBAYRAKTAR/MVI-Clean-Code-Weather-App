@@ -21,7 +21,7 @@ Live API Url
 ##🛠 Built With
 1-) Clean Code
 2-) MVI (MODEL_VIEW_INTENT)
-Jetpack Compose
-Dagger-Hilt
-Location Services
-Restful(Retrofit)
+3-) Jetpack Compose
+4-) Dagger-Hilt
+5-) Location Services
+6-) Restful(Retrofit)
